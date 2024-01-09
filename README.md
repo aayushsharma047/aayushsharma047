@@ -100,10 +100,6 @@ I wield a diverse set of tools to create digital magic:
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code></td>
 		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
-		</tr>
 	</table>
 </div>
 
