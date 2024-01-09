@@ -40,10 +40,10 @@ I love collecting digital badges. Some of my notable acheivements are here:
 
 ### 👨‍💻 Professional Experience
 
-- **Open Source Programs Intern**: Spirent Communications
-- **Application Developer**: IBM India
-- **Summer Intern**: Information Technology Group, CSIR-CMERI
-- **Summer Intern**: Institute of System Studies & Analyses, DRDO
+- **Open Source Programs Intern**: [Spirent Communications](https://www.spirent.com/)
+- **Application Developer**: [IBM India](https://www.ibm.com/in-en)
+- **Summer Intern**: [Information Technology Group, CSIR-CMERI](https://www.cmeri.res.in/department/information-technology)
+- **Summer Intern**: [Institute of System Studies & Analyses, DRDO](https://www.drdo.gov.in/labs-and-establishments/institute-systems-studies-analyses-issa)
 
 ### 💻 Tech I work on
 
