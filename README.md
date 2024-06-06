@@ -1,6 +1,6 @@
 ## Hey there 👋 Welcome to My Code Sanctuary 🚀🚀
 
-I'm Aayush, a passionate CS Grad with a love for coding, creating apps, managing projects and an unquenchable thirst for innovation. Currently immersed as a Web Developer at [Project Humanities](https://projecthumanities.asu.edu/) in [Arizona State University](https://www.asu.edu/).
+I'm Aayush, a passionate CS Grad with a love for coding, creating apps, managing projects and an unquenchable thirst for innovation. Currently immersed as a Cloud Support Engineer at [Amazon AWS](https://aws.amazon.com/).
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aayush1508/">
@@ -29,17 +29,19 @@ I love collecting digital badges. Some of my notable acheivements are here:
 <div align="center">
 	<table>
 		<tr>
-			<td><code><img width="100" src="https://aayushsharma.info/images/aws.png" alt="AWS" title="AWS"/></code></td>
-            <td><code><img width="100" src="https://aayushsharma.info/images/azure.png" alt="Azure" title="Azure"/></code></td>
-            <td><code><img width="100" src="https://aayushsharma.info/images/ibmcloud.png" alt="IBMCloud" title="IBMCloud"/></code></td>
-            <td><code><img width="100" src="https://aayushsharma.info/images/ibmagile.png" alt="IBMAgile" title="IBMAgile"/></code></td>
-            <td><code><img width="100" src="https://aayushsharma.info/images/ibmbv.png" alt="IBMBusinessValue" title="IBMBusinessValue"/></code></td>
+			<td><code><img width="100" src="https://aayushsharma047.github.io/images/aws.png" alt="AWS" title="AWS"/></code></td>
+            <td><code><img width="100" src="https://aayushsharma047.github.io/images/azure.png" alt="Azure" title="Azure"/></code></td>
+            <td><code><img width="100" src="https://aayushsharma047.github.io/images/ibmcloud.png" alt="IBMCloud" title="IBMCloud"/></code></td>
+            <td><code><img width="100" src="https://aayushsharma047.github.io/images/ibmagile.png" alt="IBMAgile" title="IBMAgile"/></code></td>
+            <td><code><img width="100" src="https://aayushsharma047.github.io/images/ibmbv.png" alt="IBMBusinessValue" title="IBMBusinessValue"/></code></td>
 		</tr>
     </table>
 </div>
 
 ### 👨‍💻 Professional Experience
 
+- **Cloud Support Engineer (DMS)** [Amazon AWS] (https://aws.amazon.com/)
+- **Web Developer (Student Worker)** [ASU Project Humanities] (https://projecthumanities.asu.edu/)
 - **Open Source Programs Intern**: [Spirent Communications](https://www.spirent.com/)
 - **Application Developer**: [IBM India](https://www.ibm.com/in-en)
 - **Summer Intern**: [Information Technology Group, CSIR-CMERI](https://www.cmeri.res.in/department/information-technology)
