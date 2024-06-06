@@ -40,8 +40,8 @@ I love collecting digital badges. Some of my notable acheivements are here:
 
 ### 👨‍💻 Professional Experience
 
-- **Cloud Support Engineer (DMS)** [Amazon AWS] (https://aws.amazon.com/)
-- **Web Developer (Student Worker)** [ASU Project Humanities] (https://projecthumanities.asu.edu/)
+- **Cloud Support Engineer (DMS)** [Amazon AWS](https://aws.amazon.com/)
+- **Web Developer (Student Worker)** [ASU Project Humanities](https://projecthumanities.asu.edu/)
 - **Open Source Programs Intern**: [Spirent Communications](https://www.spirent.com/)
 - **Application Developer**: [IBM India](https://www.ibm.com/in-en)
 - **Summer Intern**: [Information Technology Group, CSIR-CMERI](https://www.cmeri.res.in/department/information-technology)
