@@ -1,6 +1,6 @@
 ## Hey there 👋 Welcome to My Code Sanctuary 🚀🚀
 
-I'm Aayush, a passionate CS Grad with a love for coding, creating apps, managing projects and an unquenchable thirst for innovation. Currently immersed as a Cloud Support Engineer at [Amazon AWS](https://aws.amazon.com/).
+I'm Aayush, a passionate CS Grad with a love for coding, creating apps, managing projects and an unquenchable thirst for innovation. Currently immersed as a Cloud Engineer at [Amazon AWS](https://aws.amazon.com/).
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aayush1508/">
@@ -40,7 +40,7 @@ I love collecting digital badges. Some of my notable acheivements are here:
 
 ### 👨‍💻 Professional Experience
 
-- **Cloud Support Engineer (DMS)** [Amazon AWS](https://aws.amazon.com/)
+- **Cloud Engineer (Developer Mobile & IoT)** [Amazon AWS](https://aws.amazon.com/)
 - **Web Developer (Student Worker)** [ASU Project Humanities](https://projecthumanities.asu.edu/)
 - **Open Source Programs Intern**: [Spirent Communications](https://www.spirent.com/)
 - **Application Developer**: [IBM India](https://www.ibm.com/in-en)
